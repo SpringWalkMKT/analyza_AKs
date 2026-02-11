@@ -36,8 +36,8 @@ let state = {
 };
 
 function escapeHtml(s) {
-  return String(s || "").replace(/[&<>"']/g, c => ({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  return String(s || "").replace(/[&<>"\']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"
   }[c]));
 }
 
@@ -57,6 +57,24 @@ function isEnforcementReview(text) {
   const t = normText(text);
   if (!t) return false;
   return ENFORCEMENT_KWS.some(k => t.includes(k));
+}
+
+// Category label map (data keeps stable keys; UI shows Czech labels)
+const CATEGORY_LABELS_CS = {
+  communication_responsiveness: "Komunikace a reakční doba",
+  professionalism_competence: "Odbornost a profesionalita",
+  ethics_trust: "Důvěra a etika",
+  fees_value_transparency: "Cena a transparentnost odměny",
+  speed_timeliness: "Rychlost a dodržování termínů",
+  outcome_effectiveness: "Výsledek a efektivita",
+  empathy_human_approach: "Lidský přístup a empatie",
+  accessibility_contactability: "Dostupnost a kontaktovatelnost",
+  facilities_office: "Prostředí a zázemí kanceláře",
+  enforcement_debt_mass_mail: "Vymáhání / hromadné výzvy"
+};
+
+function labelCategory(catKey) {
+  return CATEGORY_LABELS_CS[catKey] || catKey || "—";
 }
 
 function flattenFirms(mergedDataset) {
@@ -94,7 +112,9 @@ function computeStats(firm, { platform, excludeEnforcement }) {
   });
 
   const ratings = reviews.map(ratingTo5).filter(v => v != null);
-  const sentiments = reviews.map(r => (typeof r.sentiment_score === "number" ? r.sentiment_score : null)).filter(v => v != null);
+  const sentiments = reviews
+    .map(r => (typeof r.sentiment_score === "number" ? r.sentiment_score : null))
+    .filter(v => v != null);
 
   return {
     reviews_n: reviews.length,
@@ -239,13 +259,13 @@ function renderThemeCharts() {
 
   state.charts.posThemes = updateChart("chartPosThemes", state.charts.posThemes, {
     type: "bar",
-    data: { labels: pos.map(x=>x.category), datasets:[{ label:"Count", data: pos.map(x=>x.count) }] },
+    data: { labels: pos.map(x=>labelCategory(x.category)), datasets:[{ label:"Count", data: pos.map(x=>x.count) }] },
     options: { responsive:true, plugins:{ legend:{ display:false } } }
   });
 
   state.charts.negThemes = updateChart("chartNegThemes", state.charts.negThemes, {
     type: "bar",
-    data: { labels: neg.map(x=>x.category), datasets:[{ label:"Count", data: neg.map(x=>x.count) }] },
+    data: { labels: neg.map(x=>labelCategory(x.category)), datasets:[{ label:"Count", data: neg.map(x=>x.count) }] },
     options: { responsive:true, plugins:{ legend:{ display:false } } }
   });
 }
@@ -254,7 +274,7 @@ function renderThemeList(ul, items) {
   ul.innerHTML = "";
   for (const it of items || []) {
     const li = document.createElement("li");
-    li.textContent = `${it.category} (${it.count})`;
+    li.textContent = `${labelCategory(it.category)} (${it.count})`;
     ul.appendChild(li);
   }
   if (!items || !items.length) {
