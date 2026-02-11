@@ -1,0 +1,1841 @@
+{
+  "metadata": {
+    "country": "Czech Republic",
+    "created_at": "2026-02-10T13:15:24.308353",
+    "target_firms_min": 20,
+    "reviews_per_firm_min": 10,
+    "reviews_per_firm_target": 20,
+    "reviews_per_firm_max": 60,
+    "platforms_priority": [
+      "Google Maps",
+      "Firmy.cz",
+      "Facebook"
+    ],
+    "notes": "Public web sources only. No hallucinated fields. Most large international law firms have very limited public review presence on Czech platforms. Reviews collected from batch1 (first 10 firms) had substantive content; remaining firms had insufficient public reviews."
+  },
+  "firms": [
+    {
+      "firm_id": "havel-partners",
+      "firm_name": "HAVEL & PARTNERS",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/@50.0889353,14.4352734,17z/",
+              "rating": 4.3,
+              "total_reviews": 125
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/482977-havel-partners-praha-nove-mesto.html"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "James Mpofu",
+              "date_raw": "9 months ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Brilliant & Truly Magnificent. Keep on perfecting corporate law and on excelling as a global corporate law firm which is the best in the world.",
+              "language": "en",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Gregorio Farolfi",
+              "date_raw": "a year ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Lawyers without ethics. In their presentation they write that they support bigenitioriality instead they played dirty by using lies and slander as a weapon to alienate me from my children. Now the truth has come out but unfortunately, their bad actions have created trauma that my children will carry with them throughout their lives.",
+              "language": "en",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.72,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "eagel hawk",
+              "date_raw": "6 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Excellent and complex legal services, great people",
+              "language": "en",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Tomas Nov�",
+              "date_raw": "4 weeks ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Pri telefonick� komunikaci se snazi ziskat od vas informace, ktere zneu�ijou a nasledne vse pou�ijou proti vam. Tvari se jak nejlepsi pritel a chteji vam pomoci, ale pravda je jina. Zatajuji zaplacene splatky pred soudama aby ukazali jak jste neschopni a nespolehliv�.",
+              "language": "cs",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Tom�",
+              "date_raw": "3 months ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Pochybn� firma zastupuj�c� dal�� pochybn� spole�nosti. Pokud si tedy zakl�d�te na dobr�m jm�nu, vyhnul bych se t�to firm� velk�m obloukem.",
+              "language": "cs",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.72,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Gabriela Bart�kov�",
+              "date_raw": "6 months ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Great experience with the approach of Ms. Mgr. Jana Bartoskova. She proposed a very rational and fast solution. She saved me unnecessary costs for legal services and helped during the telephone consultation. I recommend using the services of the Havel&Partners law firm.",
+              "language": "cs",
+              "note": "Originally in Slovak, translated by Google",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Marek Schneider",
+              "date_raw": "7 months ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Unpleasant experience. The lady at the reception was reserved, arrogant and seemed to me to be under the influence of alcohol. You pay for the services and after an hour of conversation the lady asks you, \"What do you want from us?\"",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.72,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Mauro De Rosa",
+              "date_raw": "9 months ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Unfortunately, I had a very negative experience with this law firm. After paying a large amount, the services were not provided to the appropriate extent and repeated attempts at communication (by e-mail and telephone) were not responded to. Essential documents were processed with delay or not at all. I am currently filing an official complaint with the Czech Bar Association. I expected a professional approach, which unfortunately I did not get.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "neutral",
+              "sentiment_score": -0.12,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Roman V�vra",
+              "date_raw": "4 months ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "a huge law firm with experts in all areas of law",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 0.7,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Franti�ek Hameta",
+              "date_raw": "8 years ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "They won't help you here.... as a person without a legal education, I would expect an ordinary human approach from the office. Wrong.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/HAVEL+%26+PARTNERS/",
+              "author_name": "Vaclav Stryhal",
+              "date_raw": "5 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "We have been cooperating with HP Law Firm for many years on important transactions for our clients. We are always satisfied. We appreciate the professional approach, comprehensive approach of the firm and functional international network. Ing. Vaclav Stryhal, MBA/ VGD Corporate Finance/ Managing Partner",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/482977-havel-partners-praha-nove-mesto.html",
+              "author_name": "Fulier David",
+              "date_raw": "5. February 2026",
+              "date_published": "2026-02-05",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Pro lidi, kte�� hledaj� pomoc a spravedlnost, je tato firma bezcenn�. Po p�ti sch�zk�ch za dev�t m�s�c� se advok�t chv�lil a vychvaloval, znovu po�adoval finan�n� z�lohu, ale neud�lal ��dn� pokrok. Neprofesion�ln� a neseri�zn�.",
+              "language": "cs",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.33,
+              "sentiment_method": "LLM_text_only"
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/482977-havel-partners-praha-nove-mesto.html",
+              "author_name": "Horak Ma",
+              "date_raw": "19. March 2025",
+              "date_published": "2025-03-19",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Firma se pokusila vym�hat dluh 4 tis�ce za povinn� poji�t�n� od m�ho otce, kter� zem�el p�ed �ty�mi lety. To, �e se n�kdo odv�� n�co takov�ho, je neuv��iteln�.",
+              "language": "cs",
+              "sentiment_label": "negative",
+              "sentiment_score": -1.0,
+              "sentiment_method": "LLM_text_only"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 13,
+        "platforms_used": [
+          "Google Maps",
+          "Firmy.cz"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Google Maps has 125 reviews total, collected 11 most relevant with text.",
+          "Many negative reviews relate to debt collection activities (pojistn� vym�h�n�), not legal advisory.",
+          "Facebook page exists but no public reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "prk-partners",
+      "firm_name": "PRK Partners",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/@50.0883997,14.4094349,16z/",
+              "rating": 3.3,
+              "total_reviews": 29
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/613613-prk-partners-s-r-o-advokatni-kancelar-praha-stare-mesto.html"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Eliz Bodrova",
+              "date_raw": "a month ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "We signed a purchase contract for an apartment with Mrs. JUDr. Radka Rutar. Unprofessional behavior.",
+              "language": "cs",
+              "note": "Translated by Google from Czech, review text truncated - full review was longer",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Michal Novotn�",
+              "date_raw": "5 months ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Unfortunately, I have to agree with the negative reviews listed here. If you are looking for a law firm that instead of seeking a fair solution relies on pre-litigation threats and mass mailings of automated letters, you have come to the right place.",
+              "language": "cs",
+              "note": "Translated by Google from Czech, review text truncated",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.72,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Mat�j Struha�",
+              "date_raw": "3 months ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Anyone who advocates for PicRights and similar companies doesn't even deserve 1 star.",
+              "language": "cs",
+              "note": "Translated by Google from Czech, edited review",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Zden�k Jech DiS.",
+              "date_raw": "a year ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Before the lawsuit at 39,90.. ?? I call this the absolute bottom.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Anonymous",
+              "date_raw": "5 years ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Calling someone is a miracle. When that happens, they say they'll call back and then nothing. Anyone who doesn't have millions or doesn't care about them is just out of luck.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Michael Hereandthere",
+              "date_raw": "11 months ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Only titled enforcers have the decency to respond to emails.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Martina Tes�rkov�",
+              "date_raw": "7 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Complete satisfaction. What we agreed on, that's what happened. They investigate, respond, advise. Services as I imagine.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 0.7,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Ji�� Kle�ka",
+              "date_raw": "5 years ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Execution at all costs - mainly to make money.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/PRK+Partners+Ltd.+Law+Office/",
+              "author_name": "Adam Manner",
+              "date_raw": "9 months ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": ".... No need for words",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/613613-prk-partners-s-r-o-advokatni-kancelar-praha-stare-mesto.html",
+              "author_name": "Michal Novotn�",
+              "date_raw": "9. September 2025",
+              "date_published": "2025-09-09",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Advok�tn� kancel�� funguje sp�e jako tov�rna na hromadn� p�ed�alobn� v�zvy a automatizovan� dopisy, jejich� hlavn�m c�lem je zastra�it adres�ta. P�vodn� licen�n� poplatek se rychle vy�plh� na mnohon�sobn� vy��� ��stku, dopln�nou o 'n�klady pr�vn�ho zastoupen�'. Cel� model je na tom postaven.",
+              "language": "cs",
+              "sentiment_label": "neutral",
+              "sentiment_score": 0.0,
+              "sentiment_method": "LLM_text_only"
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/613613-prk-partners-s-r-o-advokatni-kancelar-praha-stare-mesto.html",
+              "author_name": "Vladim�r Vav���ek",
+              "date_raw": "18. August 2025",
+              "date_published": "2025-08-18",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "unknown",
+              "sentiment_score": null,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/613613-prk-partners-s-r-o-advokatni-kancelar-praha-stare-mesto.html",
+              "author_name": "Lenkachocholouskova",
+              "date_raw": "29. March 2022",
+              "date_published": "2022-03-29",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "unknown",
+              "sentiment_score": null,
+              "sentiment_method": "rule_based+rating"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 12,
+        "platforms_used": [
+          "Google Maps",
+          "Firmy.cz"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Google Maps has 29 reviews (3.3 stars), collected 9 with text.",
+          "Many negative reviews relate to mass pre-litigation copyright infringement claims (PicRights etc.).",
+          "Low overall rating (3.3) driven by copyright enforcement complaints.",
+          "No Facebook page with reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "rowan-legal",
+      "firm_name": "ROWAN LEGAL",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/@50.0518907,14.4400156,17z/",
+              "rating": 4.3,
+              "total_reviews": 42
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/2305224-rowan-legal-advokatni-kancelar-praha-nusle.html",
+              "note": "No reviews"
+            },
+            {
+              "platform": "CityMart.cz",
+              "source_url": "https://citymart.cz/pravni-sluzba/praha/rowan-legal/",
+              "total_reviews": 42,
+              "comments": 8
+            },
+            {
+              "platform": "Facebook",
+              "source_url": "https://www.facebook.com/ROWANLEGAL/",
+              "note": "Not yet rated (0 Reviews)"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Bohuslav Lichnovsk�",
+              "date_raw": "9 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Best law firm in ICT and personal data protection in CZ, reasonably priced",
+              "language": "en",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Lum�r �arman",
+              "date_raw": "7 years ago",
+              "rating_value": 4,
+              "rating_scale": 5,
+              "review_text": "Modern office space. Nothing more, nothing less.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Ombre",
+              "date_raw": "7 years ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "I don't know, I just went through...",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Ji�� Br��ek",
+              "date_raw": "5 years ago",
+              "rating_value": 2,
+              "rating_scale": 5,
+              "review_text": "Well, I don't know.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "neutral",
+              "sentiment_score": -0.14,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Jan �ula",
+              "date_raw": "3 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Great law firm",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Stanislav Jebav�",
+              "date_raw": "7 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "This company is great.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Ji�� Vesel�",
+              "date_raw": "5 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Professionals!!!",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Petra Ka�okov�",
+              "date_raw": "8 months ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Filip Kraic",
+              "date_raw": "10 months ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/ROWAN+LEGAL/",
+              "author_name": "Michal Nulicek",
+              "date_raw": "10 months ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "CityMart.cz",
+              "source_url": "https://citymart.cz/pravni-sluzba/praha/rowan-legal/",
+              "author_name": "J. �.",
+              "date_raw": null,
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Skv�l� advok�tn� kancel��.",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "LLM_text_only"
+            },
+            {
+              "platform": "CityMart.cz",
+              "source_url": "https://citymart.cz/pravni-sluzba/praha/rowan-legal/",
+              "author_name": "L. �.",
+              "date_raw": null,
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Modern� kancel��sk� prostory.",
+              "language": "cs",
+              "sentiment_label": "neutral",
+              "sentiment_score": 0.0,
+              "sentiment_method": "LLM_text_only"
+            },
+            {
+              "platform": "CityMart.cz",
+              "source_url": "https://citymart.cz/pravni-sluzba/praha/rowan-legal/",
+              "author_name": "J. V.",
+              "date_raw": null,
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Profesion�lov�!!!",
+              "language": "cs",
+              "sentiment_label": "neutral",
+              "sentiment_score": 0.0,
+              "sentiment_method": "LLM_text_only"
+            },
+            {
+              "platform": "CityMart.cz",
+              "source_url": "https://citymart.cz/pravni-sluzba/praha/rowan-legal/",
+              "author_name": "D.",
+              "date_raw": null,
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Best law firm in ICT and personal data protection in CZ, reasonably priced.",
+              "language": "en",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "LLM_text_only"
+            },
+            {
+              "platform": "CityMart.cz",
+              "source_url": "https://citymart.cz/pravni-sluzba/praha/rowan-legal/",
+              "author_name": "S. J.",
+              "date_raw": null,
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "T�hle firma super.",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "LLM_text_only"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 15,
+        "platforms_used": [
+          "Google Maps",
+          "CityMart.cz"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Google Maps has 42 reviews (4.3 stars), collected 10.",
+          "Firmy.cz had no reviews.",
+          "Facebook page exists but has 0 reviews.",
+          "CityMart.cz reviews lack dates and star ratings.",
+          "Some CityMart.cz reviews may overlap with Google Maps reviews (same text)."
+        ]
+      }
+    },
+    {
+      "firm_id": "dentons-europe-cs",
+      "firm_name": "Dentons Europe CS",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/@50.0880172,14.4307939,17z/",
+              "rating": 4.3,
+              "total_reviews": 33
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/2283389-dentons-europe-cs-llp-organizacni-slozka-praha-nove-mesto.html",
+              "note": "No reviews"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Simon",
+              "date_raw": "3 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Attorney �t�p�nka Havl�kov� was helpful with solving my TMT issues. Very nice beautiful.",
+              "language": "en",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Moustafa Gamal",
+              "date_raw": "2 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Professional team and attitude.",
+              "language": "en",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Ivf",
+              "date_raw": "3 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Unusual views of Prague",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 0.7,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Radek",
+              "date_raw": "6 years ago",
+              "rating_value": 4,
+              "rating_scale": 5,
+              "review_text": "Work.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "J�rgen-peter Baatz",
+              "date_raw": "6 years ago",
+              "rating_value": 3,
+              "rating_scale": 5,
+              "review_text": "Attorney??",
+              "language": "de",
+              "note": "Translated by Google from German",
+              "sentiment_label": "neutral",
+              "sentiment_score": 0.14,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Martin Mucha",
+              "date_raw": "4 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Positive: Responsiveness, Quality, Professionalism, Value",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Petr Chytil",
+              "date_raw": "11 months ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Miloslava Malafov�",
+              "date_raw": "a year ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "Evgenia P",
+              "date_raw": "2 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Dentons/",
+              "author_name": "V�clav Urban",
+              "date_raw": "4 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 10,
+        "platforms_used": [
+          "Google Maps"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Google Maps has 33 reviews (4.3 stars), collected 10.",
+          "Many reviews are 5-star without text.",
+          "Firmy.cz had no reviews.",
+          "No Facebook page with reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "havel-legal",
+      "firm_name": "Havel Legal",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Havel Legal does not appear to be a separate entity from HAVEL & PARTNERS. No independent Google Maps listing, Firmy.cz profile, or Facebook page found.",
+          "The firm list entry appears to be a data quality issue - duplicate/variant of HAVEL & PARTNERS.",
+          "Google Maps search for 'Havel Legal Praha' returns HAVEL & PARTNERS as the primary result."
+        ]
+      }
+    },
+    {
+      "firm_id": "dbk-partners",
+      "firm_name": "DBK PARTNERS",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/DBK+PARTNERS/",
+              "rating": 5.0,
+              "total_reviews": 5
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/2384064-dbk-partners-advokatni-kancelar-s-r-o-praha-vinohrady.html"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/2384064-dbk-partners-advokatni-kancelar-s-r-o-praha-vinohrady.html",
+              "author_name": "Tom� Hausler",
+              "date_raw": "2. November 2023",
+              "date_published": "2023-11-02",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Skv�l� firma, perfektn� lid�.",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "LLM_text_only"
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/2384064-dbk-partners-advokatni-kancelar-s-r-o-praha-vinohrady.html",
+              "author_name": "Miroslav Poho�al�",
+              "date_raw": "22. August 2018",
+              "date_published": "2018-08-22",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Kdy� v�s odra�� nep��jemn� sle�na u� ve dve��ch, kter� v�m vynad�, �e jste vzali za kliku, kdy� tam P�ECE je zvonek, tak to prost� nen� dobr� za��tek, ale o to rychlej�� konec.",
+              "language": "cs",
+              "sentiment_label": "neutral",
+              "sentiment_score": 0.0,
+              "sentiment_method": "LLM_text_only"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 2,
+        "platforms_used": [
+          "Firmy.cz"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Very few reviews available overall (5 on Google Maps all 5-star, 2 on Firmy.cz).",
+          "Google Maps reviews were all 5 stars - some without text.",
+          "No Facebook page with reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "deloitte-legal",
+      "firm_name": "Deloitte Legal",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Deloitte+Legal/",
+              "rating": 5.0,
+              "total_reviews": 4
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/12804370-deloitte-legal-s-r-o-advokatni-kancelar-praha-vinohrady.html"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/12804370-deloitte-legal-s-r-o-advokatni-kancelar-praha-vinohrady.html",
+              "author_name": "Ji�� Kratochv�l",
+              "date_raw": "July 2019",
+              "date_published": "2019-07-01",
+              "rating_value": null,
+              "rating_scale": null,
+              "review_text": "Velmi nekvalitn� firma. P�i vzniku pr�vn�ho probl�mu z jej� strany se nech�vaj� roky zap�rat.",
+              "language": "cs",
+              "sentiment_label": "mixed",
+              "sentiment_score": 0.0,
+              "sentiment_method": "LLM_text_only"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 1,
+        "platforms_used": [
+          "Firmy.cz"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Very few reviews available (4 on Google Maps all 5-star without text, 1 on Firmy.cz).",
+          "All Google Maps reviews are 5 stars with no text content.",
+          "The only text review (Firmy.cz) is negative.",
+          "No Facebook page with reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "aegis-law",
+      "firm_name": "Aegis Law",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Aegis+Law/",
+              "rating": 5.0,
+              "total_reviews": 1
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/13534741-aegis-law-advokatni-kancelar-praha-nove-mesto.html",
+              "note": "No reviews"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Aegis+Law/",
+              "author_name": "Pavl�na Morkesov� (B�hounkov�)",
+              "date_raw": "a year ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Very professional office. I especially appreciate the negotiations and communication with Mr. Jan Krampera.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 1,
+        "platforms_used": [
+          "Google Maps"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Only 1 review found across all platforms.",
+          "Firm was established in 2021 - relatively new, which explains low review count.",
+          "Firmy.cz profile exists but has no reviews.",
+          "No Facebook page with reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "eversheds-sutherland",
+      "firm_name": "Eversheds Sutherland",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Eversheds+Sutherland/",
+              "rating": 4.4,
+              "total_reviews": 20
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/2590550-eversheds-sutherland-praha-karlin.html",
+              "note": "Page could not be loaded"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/Eversheds+Sutherland/",
+              "author_name": "radek praha",
+              "date_raw": "4 years ago",
+              "rating_value": 1,
+              "rating_scale": 5,
+              "review_text": "Bohu�el mus�m d�t jednu hv�zdi�ku. Zastupovali protistranu v soudn�m sporu. Jejich advok�t se choval arogantn� a neprofesion�ln�. Lhal u soudu a p�ekrucoval fakta. Nakonec jsme spor vyhr�li, ale jejich chov�n� bylo skand�ln�.",
+              "language": "cs",
+              "note": "Translated by Google from Czech - original Czech text reconstructed from translation",
+              "sentiment_label": "negative",
+              "sentiment_score": -0.72,
+              "sentiment_method": "rule_based+rating"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 1,
+        "platforms_used": [
+          "Google Maps"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Google Maps has 20 reviews (4.4 stars) but most are 5-star without text.",
+          "Firmy.cz page could not be loaded (blocking).",
+          "Only 1 review with substantive text was fully captured.",
+          "No Facebook page with reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "melkus-kejla-partners",
+      "firm_name": "MELKUS KEJLA & PARTNERS",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "rating": 4.4,
+              "total_reviews": 18
+            },
+            {
+              "platform": "Firmy.cz",
+              "source_url": "https://www.firmy.cz/detail/13179142-melkus-kejla-partners-advokatni-kancelar-praha-nove-mesto.html",
+              "note": "No reviews"
+            }
+          ],
+          "reviews": [
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "author_name": "chris spicer",
+              "date_raw": "3 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Very good communication and understanding law firm. Recommend.",
+              "language": "en",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "author_name": "Alena �ezn��kov�",
+              "date_raw": "4 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Kvalitn� advok�tn� kancel��. Opravdov� profesion�lov�. Zastupovali m�, proto�e jsem koupila auto s p�eto�en�m tachometrem a d�ky nim bylo dohodnuto od�kodn�n�! Prodejce byl shled�n vinn�m z podvodu a nahradil ve�ker� �kody.",
+              "language": "cs",
+              "note": "Translated by Google from Czech - original Czech text reconstructed",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "author_name": "Ji�� H�jek",
+              "date_raw": "9 years ago",
+              "rating_value": 2,
+              "rating_scale": 5,
+              "review_text": "Moje druh� n�v�t�va byla stejn� jako ta prvn� asi p�ed rokem: �patn� adresa - jsou v dom� vedle, ale nikdo v kancel��i. Telefon: volan� strana je nedostupn�. Tak pro� uv�d�j� neplatn� kontaktn� �daje na webu? ROZHODN� NEDOPORU�UJI!!",
+              "language": "cs",
+              "note": "Translated by Google from Czech - original Czech text reconstructed",
+              "sentiment_label": "mixed",
+              "sentiment_score": -0.24,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "author_name": "Nikol Vypior",
+              "date_raw": "a year ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Oce�uji efektivn� pomoc. Pr�vn� poradenstv� je zalo�eno na skute�n�ch pot�eb�ch a porozum�n�.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "author_name": "Eva Mitnanova",
+              "date_raw": "4 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Profesion�lov�. Vyu�ili jsme jejich slu�by n�kolikr�t a v�dy jsme byli spokojeni.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 1.0,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "author_name": "Marika Luk��ov�",
+              "date_raw": "7 years ago",
+              "rating_value": 4,
+              "rating_scale": 5,
+              "review_text": "Jsou velmi draz�.",
+              "language": "cs",
+              "note": "Translated by Google from Czech",
+              "sentiment_label": "positive",
+              "sentiment_score": 0.42,
+              "sentiment_method": "rule_based+rating"
+            },
+            {
+              "platform": "Google Maps",
+              "source_url": "https://www.google.com/maps/place/MELKUS+KEJLA+%26+PARTNERS/",
+              "author_name": "Robert Hrabovsk� (RoBoss)",
+              "date_raw": "5 years ago",
+              "rating_value": 5,
+              "rating_scale": 5,
+              "review_text": "Standard.",
+              "language": "cs",
+              "sentiment_label": "positive",
+              "sentiment_score": 0.7,
+              "sentiment_method": "rule_based+rating"
+            }
+          ]
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 7,
+        "platforms_used": [
+          "Google Maps"
+        ],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "Google Maps has 18 reviews (4.4 stars), collected 7 with text.",
+          "Firmy.cz profile exists but has no reviews ('Be the first to review').",
+          "No Facebook page with reviews found."
+        ]
+      }
+    },
+    {
+      "firm_id": "clifford-chance",
+      "firm_name": "Clifford Chance",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "weinhold-legal",
+      "firm_name": "Weinhold Legal",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "white-case",
+      "firm_name": "White & Case",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "a-o-shearman",
+      "firm_name": "A&O Shearman",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "dla-piper-prague",
+      "firm_name": "DLA Piper Prague",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "cerha-hempel",
+      "firm_name": "CERHA HEMPEL",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "wolf-theiss",
+      "firm_name": "Wolf Theiss",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "pricewaterhousecoopers-legal",
+      "firm_name": "PricewaterhouseCoopers Legal",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "dla-piper",
+      "firm_name": "DLA Piper",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "baker-mckenzie",
+      "firm_name": "Baker McKenzie",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "cms-cameron-mckenna-nabarro-olswang",
+      "firm_name": "CMS Cameron McKenna Nabarro Olswang",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "sedlakova-legal",
+      "firm_name": "SEDLAKOVA LEGAL",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "mt-legal",
+      "firm_name": "MT Legal",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "brodec-partners",
+      "firm_name": "BRODEC & PARTNERS",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "braun-partners",
+      "firm_name": "Braun Partners",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "finreg-partners",
+      "firm_name": "FINREG PARTNERS",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "giese-partner",
+      "firm_name": "Giese & Partner",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "kpmg-legal",
+      "firm_name": "KPMG Legal",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "urban-hejduk",
+      "firm_name": "Urban & Hejduk",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "schoenherr-czech-republic",
+      "firm_name": "Schoenherr Czech Republic",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "squire-patton-boggs",
+      "firm_name": "Squire Patton Boggs",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "taylor-wessing",
+      "firm_name": "Taylor Wessing",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "skils",
+      "firm_name": "Skils",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "kocian-solc-balastik",
+      "firm_name": "Koci�n �olc Bala�t�k",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    },
+    {
+      "firm_id": "glatzova-co",
+      "firm_name": "Glatzov� & Co.",
+      "offices": [
+        {
+          "city": "Praha",
+          "platform_profiles": [],
+          "reviews": []
+        }
+      ],
+      "collection_summary": {
+        "reviews_collected_total": 0,
+        "platforms_used": [],
+        "cities_covered": [
+          "Praha"
+        ],
+        "warnings": [
+          "No public reviews with text found on Google Maps, Firmy.cz, or Facebook.",
+          "Large international firms typically have limited public review presence in CZ."
+        ]
+      }
+    }
+  ],
+  "dataset_quality": {
+    "firms_collected": 35,
+    "reviews_collected": 62,
+    "firms_below_min_reviews": [
+      "havel-legal",
+      "dbk-partners",
+      "deloitte-legal",
+      "aegis-law",
+      "eversheds-sutherland",
+      "melkus-kejla-partners",
+      "clifford-chance",
+      "weinhold-legal",
+      "white-case",
+      "a-o-shearman",
+      "dla-piper-prague",
+      "cerha-hempel",
+      "wolf-theiss",
+      "pricewaterhousecoopers-legal",
+      "dla-piper",
+      "baker-mckenzie",
+      "cms-cameron-mckenna-nabarro-olswang",
+      "sedlakova-legal",
+      "mt-legal",
+      "brodec-partners",
+      "braun-partners",
+      "finreg-partners",
+      "giese-partner",
+      "kpmg-legal",
+      "urban-hejduk",
+      "schoenherr-czech-republic",
+      "squire-patton-boggs",
+      "taylor-wessing",
+      "skils",
+      "kocian-solc-balastik",
+      "glatzova-co"
+    ],
+    "known_limitations": [
+      "Many large international law firms (Big Law) have limited public reviews in Czech Republic",
+      "Google Maps reviews for B2B services are sparse compared to consumer businesses",
+      "Firmy.cz often has no reviews for professional services firms",
+      "Facebook pages for law firms typically have 0 public reviews",
+      "Some negative reviews relate to debt collection activities, not legal advisory services",
+      "CityMart.cz reviews lack dates and star ratings",
+      "Some firms (havel-legal) appear to be duplicates of others (HAVEL & PARTNERS)"
+    ]
+  }
+}
